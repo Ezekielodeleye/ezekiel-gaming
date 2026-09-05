@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1c0933"/><stop offset="1" stop-color="#07070d"/></linearGradient></defs>
+<rect width="1200" height="700" fill="url(#g)"/><circle cx="930" cy="150" r="190" fill="#ff2bd6" opacity=".16"/><circle cx="220" cy="580" r="260" fill="#ff2bd6" opacity=".09"/>
+<path d="M0 560 L360 300 L600 470 L900 170 L1200 420 L1200 700 L0 700Z" fill="#ff2bd6" opacity=".10"/>
+<text x="70" y="105" fill="#ff2bd6" font-family="Arial" font-size="34" font-weight="800" letter-spacing="5">EZEKIEL GAMING</text>
+<text x="70" y="590" fill="#fff" font-family="Arial" font-size="72" font-weight="900">ACTION ARENA</text>
+<text x="73" y="635" fill="#aaa" font-family="Arial" font-size="25">ENTER THE ARENA • PLAY • COMPETE • CONNECT</text></svg>
