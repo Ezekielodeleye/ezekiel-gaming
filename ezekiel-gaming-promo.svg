@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="600" viewBox="0 0 1050 600">
+<defs>
+<linearGradient id="promoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" style="stop-color:#8b3dff;stop-opacity:1" />
+<stop offset="50%" style="stop-color:#ff2bd6;stop-opacity:1" />
+<stop offset="100%" style="stop-color:#31d7ff;stop-opacity:1" />
+</linearGradient>
+</defs>
+<rect width="1050" height="600" fill="#07070d"/>
+<rect width="1050" height="600" fill="url(#promoGrad)" opacity="0.15"/>
+<circle cx="850" cy="100" r="180" fill="#8b3dff" opacity="0.2"/>
+<circle cx="200" cy="500" r="200" fill="#ff2bd6" opacity="0.15"/>
+<circle cx="900" cy="450" r="150" fill="#31d7ff" opacity="0.1"/>
+<text x="525" y="200" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="80" font-weight="900" letter-spacing="8">EZEKIEL</text>
+<text x="525" y="280" text-anchor="middle" fill="#31d7ff" font-family="Arial, sans-serif" font-size="80" font-weight="900" letter-spacing="8">GAMING</text>
+<text x="525" y="370" text-anchor="middle" fill="#d5d0e2" font-family="Arial, sans-serif" font-size="28">All games. All players. One arena.</text>
+<text x="525" y="420" text-anchor="middle" fill="#a7a4b8" font-family="Arial, sans-serif" font-size="18">Games • Esports • Reviews • Community • Leaderboards</text>
+<rect x="350" y="470" width="350" height="60" rx="10" fill="none" stroke="#8b3dff" stroke-width="3"/>
+<text x="525" y="510" text-anchor="middle" fill="#8b3dff" font-family="Arial, sans-serif" font-size="24" font-weight="900">ENTER THE ARENA</text>
+</svg>
